@@ -1,7 +1,39 @@
 <h1 align="center">Hi 👋, I'm Antaryami Sahoo</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🌱 I’m currently learning .......
+## Tech Stack
+
+Here are some of the technologies I'm familiar with and actively using:
+
+- Programming Languages: Python, Java, HTML/CSS, JavaScript, C++, C
+- Frontend Development: HTML5, CSS3, Bootstrap, React, 
+- Version Control: GitHub
+- Databases: MySQL, Oracle, SQLserver
+- Operating Systems: Windows, Linux (Ubuntu)
+- Frameworks: Django
+- Data Visualization: Tableau
+
+## Interests
+
+I'm passionate about various aspects of computer science, including:
+
+- Web Development: Building responsive and user-friendly web applications.
+- Data Structures & Algorithms: Solving challenging problems and optimizing code efficiency.
+- Machine Learning: Exploring the exciting world of artificial intelligence and its applications.
+
+  ## Learning Goals
+
+As a computer science student, I'm eager to achieve the following:
+
+- Improve problem-solving skills and tackle complex programming challenges.
+- Enhance my understanding of artificial intelligence and delve into advanced machine learning concepts.
+- Collaborate on real-world web development projects and contribute to open-source initiatives.
+
+## Contribution
+
+I'm always open to collaborating with other developers and contributing to exciting projects. If you find any of my work interesting or have suggestions, feel free to open an issue or submit a pull request. Let's make the tech community thrive together!
+
+Happy coding! 😄🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
