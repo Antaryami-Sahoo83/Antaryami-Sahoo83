@@ -3,6 +3,19 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+## Fun Fact 🎈:
+
+<!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
+<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
+
+• 🔭 I’m currently working on <b>something cool!</b> <br/>
+• 👯 I’m looking to collaborate on <b>cool project.</b><br/>
+• 💬 Ask me about.<br/> 
+</span>
+
+<br />
+<br />
+
 ## Tech Stack
 
 Here are some of the technologies I'm familiar with and actively using:
@@ -37,7 +50,7 @@ I'm always open to collaborating with other developers and contributing to excit
 
 Happy coding! 😄🚀
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 📫 Reach me out</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/antaryami_83" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" alt="https://twitter.com/antaryami_83" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/engineer-antaryami" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="https://www.linkedin.com/in/engineer-antaryami" height="30" width="40" /></a>
@@ -47,3 +60,12 @@ Happy coding! 😄🚀
 <a href="https://www.leetcode.com/antaryami_83" target="blank"><img align="center" src="https://tse2.mm.bing.net/th?id=OIP.ymdLUYayjisO2uU47lOI0AHaHa&amp;pid=Api&amp;P=0&amp;h=180" alt="antaryami_83" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mail2sahoo_83" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png" alt="mail2sahoo_83" height="30" width="40" /></a>
 </p>
+
+
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antaryami-sahoo83&show_icons=true&locale=en&layout=compact" alt="antaryami-sahoo83" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antaryami-sahoo83&show_icons=true&locale=en" alt="antaryami-sahoo83" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antaryami-sahoo83&" alt="antaryami-sahoo83" /></p>
+-->
