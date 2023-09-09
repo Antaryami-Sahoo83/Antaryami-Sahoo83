@@ -25,7 +25,7 @@ Here are some of the technologies I'm familiar with and actively using:
 - Version Control: GitHub
 - Databases: MySQL, Oracle, SQLserver
 - Operating Systems: Windows, Linux (Ubuntu)
-- Frameworks: Django
+- Frameworks: Django, TKINTER
 - Data Visualization: Tableau
 
 ## Interests
