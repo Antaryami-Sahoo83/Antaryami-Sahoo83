@@ -21,12 +21,12 @@
 Here are some of the technologies I'm familiar with and actively using:
 
 - Programming Languages: Python, Java, HTML/CSS, JavaScript, C++, C
-- Frontend Development: HTML5, CSS3, Bootstrap, React, 
+- Frontend Development: HTML5, CSS3, Bootstrap, React
+- Backend Development: Node.js, Express.js 
 - Version Control: GitHub
 - Databases: MySQL, Oracle, SQLserver
 - Operating Systems: Windows, Linux (Ubuntu)
 - Frameworks: Django, TKINTER
-- Data Visualization: Tableau
 
 ## Interests
 
